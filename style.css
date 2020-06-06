@@ -1,0 +1,30 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    background-image: url(img/snake.jpg);
+    background-size: cover;
+}
+h1
+{
+    color: white;
+    text-align: center;
+    margin: 30px;
+}
+h2
+{
+    color: white;
+    text-align: center;
+    margin: 30px;
+}
+a
+{
+    color: white;
+    text-decoration: none;
+}
+
+canvas
+{
+    display: block;
+    margin: 100px auto;
+}
